@@ -133,6 +133,7 @@ a {
 .text {
     text-align: center;
     margin-bottom: 100px;
+    width: 150px;
 }
 
 .todo-2 {
